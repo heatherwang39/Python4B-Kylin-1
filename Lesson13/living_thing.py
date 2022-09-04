@@ -1,8 +1,7 @@
 class LivingThing:
     pass
 
-
-
+print()
 
 
 
