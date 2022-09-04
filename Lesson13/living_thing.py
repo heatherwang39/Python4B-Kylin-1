@@ -1,0 +1,23 @@
+class LivingThing:
+    pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
