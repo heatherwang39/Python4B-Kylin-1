@@ -32,7 +32,7 @@ class Caribou(Animal):
 
 
 class Wolf(Animal):
-    def __init__(self, habit, is_carnivore pack_leader):
+    def __init__(self, habit, is_carnivore, pack_leader):
         self.pack_leader = pack_leader
         super.__init__(habit, is_carnivore)
 
